@@ -3,7 +3,7 @@
 💻 **Senior Software Engineer** with 15+ years of experience in **backend, cloud, and computer vision**.
 🚀 Skilled in **Python, FastAPI, Kubernetes, AWS** with additional expertise in **C++ and iOS development**.
 🌍 Based in Poland, open to **remote opportunities**.
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/andrei-kazialetski-a2488240) | [CV (PDF)](https://github.com/avkghost/Andrei_Kazialetski_CV.pdf)
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/andrei-kazialetski-a2488240) | [CV (PDF)](https://github.com/avkghost/avkghost/blob/main/Andrei_Kazialetski_CV.pdf)
 
 ---
 
