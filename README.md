@@ -17,29 +17,9 @@
 
 ## 📌 Pinned Projects
 
-### 🐍 FastAPI Microservice Boilerplate
-A production-ready backend template with Docker, Kubernetes, and CI/CD pipelines.
-Tech: FastAPI, PostgreSQL, Redis, Celery, Docker, Kubernetes.
-[🔗 View Repository](link-to-repo)
-
----
-
-### 👁️ Computer Vision: Image Classification & Object Detection
-Experiments with CNNs, TensorFlow Lite Micro, and deployment on ESP32 microcontrollers.
-[🔗 View Repository](link-to-repo)
-
----
-
 ### ⚡ MG811 Sensor Library
 Arduino library for MG811 CO₂ sensor (C++, embedded).
 [🔗 View Repository](https://github.com/avkghost/MG811_sensor_library)
-
----
-
-### 📱 AR/3D iOS Apps
-iOS apps with LiDAR & TrueDepth camera for 3D reconstruction and pose estimation.  
-Tech: Swift, UIKit, OpenCV, Open3D.
-[🔗 View Repository](link-to-repo)
 
 ---
 
