@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Python, C++, Swift, Objective-C
+- **Languages:** Swift, Objective-C, C++, Python
 - **Backend & Cloud:** FastAPI, Celery, Redis, PostgreSQL, AWS (EC2, S3, RDS, Lambda), Kubernetes, Terraform, Docker
 - **Computer Vision & ML:** OpenCV, TensorFlow, PyTorch, CoreML, ML pipelines
 - **Other:** Git, CI/CD, iOS Development, Agile/Scrum
