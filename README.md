@@ -1,36 +1,63 @@
-# Hi there 👋 I'm Andrei Kazialetski
+# Hi 👋 I'm Andrei Kazialetski
 
-💻 **Senior Software Engineer** with 15+ years of experience in **backend, cloud, and computer vision**.
-🚀 Skilled in **Python, FastAPI, Kubernetes, AWS** with additional expertise in **C++ and iOS development**.
-🌍 Based in Poland, open to **remote opportunities**.
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/andrei-kazialetski-a2488240) | [CV (PDF)](https://github.com/avkghost/avkghost/blob/main/Andrei_Kazialetski_CV.pdf)
+**Senior Python / Machine Learning Engineer** with extensive software
+engineering experience across backend systems, machine learning,
+computer vision, embedded AI, and systems engineering.
 
----
+I build production-grade Python services and ML-enabled systems, with a
+strong focus on scalable architecture, distributed processing, model
+optimization, and production deployment.
+
+Based in Poland 🇵🇱 \| Open to **remote opportunities across Europe \|
+B2B**
 
 ## 🔧 Tech Stack
-- **Languages:** Python, C++, Swift, Objective-C
-- **Backend & Cloud:** FastAPI, Celery, Redis, PostgreSQL, AWS (EC2, S3, RDS, Lambda), Kubernetes, Terraform, Docker
-- **Computer Vision & ML:** OpenCV, TensorFlow, PyTorch, CoreML, ML pipelines
-- **Other:** Git, CI/CD, iOS Development, Agile/Scrum
 
----
+**Python & Backend**\
+Python · FastAPI · Celery · Redis · PostgreSQL · RabbitMQ · REST APIs
 
-## 📌 Pinned Projects
+**Machine Learning & Computer Vision**\
+TensorFlow · PyTorch · OpenCV · CoreML · Computer Vision · Model
+Optimization · Model Quantization · ML Pipelines
 
-### ⚡ MG811 Sensor Library
-Arduino library for MG811 CO₂ sensor (C++, embedded).
-[🔗 View Repository](https://github.com/avkghost/MG811_sensor_library)
+**Cloud & Infrastructure**\
+AWS · Kubernetes · Docker · Terraform · CI/CD
 
----
+**Systems & Embedded**\
+C/C++ · Linux · ARM · ESP32 · CMake · Yocto · Embedded Systems
 
-## 🌟 Open Source & Learning
-- 📚 Kaggle: [andynewman](https://www.kaggle.com/andynewman)
-- 🎓 Coursera Deep Learning Specialization (Andrew Ng)
-- 🔗 Contributions to embedded and FPGA projects
+**Additional Experience**\
+Swift · SwiftUI · UIKit · iOS Development
 
----
+## 🧠 Areas of Expertise
 
-## 📈 GitHub Stats
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=avkghost&show_icons=true&theme=default)
+-   Production Python backend systems
+-   Machine Learning & Computer Vision
+-   ML model optimization and deployment
+-   Distributed and asynchronous processing
+-   Microservice architecture
+-   Cloud-native applications
+-   Embedded / Edge AI
+-   Performance-critical systems
 
----
+## 📌 Selected Projects
+
+### MG811 Sensor Library
+
+Arduino/C++ library for the MG811 CO₂ sensor.
+
+More Python / ML projects coming soon.
+
+## 🌱 ML & Open Source
+
+-   Kaggle: **andynewman**
+-   DeepLearning.AI --- Deep Learning Specialization
+-   Experience with computer vision, neural networks, embedded
+    inference, pose estimation and 3D reconstruction
+-   Contributions to embedded and FPGA projects
+
+## 📫 Contact
+
+**LinkedIn:** linkedin.com/in/andrei-kazialetski-a2488240/
+
+**CV:** Available in this repository
