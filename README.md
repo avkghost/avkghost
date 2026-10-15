@@ -1,63 +1,41 @@
-# Hi 👋 I'm Andrei Kazialetski
+# Hi, I'm Andrei Kazialetski 👋
 
-**Senior Python / Machine Learning Engineer** with extensive software
-engineering experience across backend systems, machine learning,
-computer vision, embedded AI, and systems engineering.
+**Senior Software Engineer | Python · Solution Architecture · Computer Vision · Embedded Systems**
 
-I build production-grade Python services and ML-enabled systems, with a
-strong focus on scalable architecture, distributed processing, model
-optimization, and production deployment.
+I design and build production software, from Python backend services and cloud infrastructure to computer vision applications and low-level systems programming.
 
-Based in Poland 🇵🇱 \| Open to **remote opportunities across Europe \|
-B2B**
+My primary professional focus is **Python, FastAPI, AWS, Kubernetes, and solution architecture**. Outside commercial projects, I explore Linux networking, SCSI interfaces, device drivers, microcontrollers, and retrocomputing.
 
-## 🔧 Tech Stack
+Based in Poland · Open to remote EU opportunities · B2B
 
-**Python & Backend**\
-Python · FastAPI · Celery · Redis · PostgreSQL · RabbitMQ · REST APIs
+**[Website](https://iamavk.info/)** · **[Technical Blog](https://iamavk.info/blog/)** · **[LinkedIn](https://www.linkedin.com/in/andrei-kazialetski-a2488240/)**
 
-**Machine Learning & Computer Vision**\
-TensorFlow · PyTorch · OpenCV · CoreML · Computer Vision · Model
-Optimization · Model Quantization · ML Pipelines
+## Technical Expertise
 
-**Cloud & Infrastructure**\
-AWS · Kubernetes · Docker · Terraform · CI/CD
+- **Backend & Architecture:** Python, FastAPI, PostgreSQL, Redis, Celery, REST APIs
+- **Cloud & Infrastructure:** AWS, Kubernetes, Docker, Terraform
+- **Computer Vision & ML:** OpenCV, TensorFlow Lite Micro, image processing, 3D reconstruction
+- **Systems & Embedded:** C/C++, Linux, device drivers, ESP32, SCSI
+- **Mobile:** Swift, SwiftUI, UIKit
 
-**Systems & Embedded**\
-C/C++ · Linux · ARM · ESP32 · CMake · Yocto · Embedded Systems
+## Selected Engineering Projects
 
-**Additional Experience**\
-Swift · SwiftUI · UIKit · iOS Development
+| Project | Description |
+|---|---|
+| [FDTester](https://github.com/avkghost/FDTester) | Floppy disk controller and diagnostic tooling built around ATmega2560 |
+| [Iomega Tools](https://github.com/avkghost/iomega_tools) | Tools for working with legacy Iomega SCSI storage |
+| [BlueSCSI + DaynaPORT](https://github.com/avkghost/BlueSCSI-v2/tree/avkghost/birdge-with-daynaport) | Experimental SCSI bridging and host connectivity |
+| [DaynaPORT Windows Driver](https://github.com/avkghost/daynaport-scsilink-windows-driver) | Windows-side driver development for DaynaPORT SCSI networking |
+| [MG811 Sensor Library](https://github.com/avkghost/MG811_sensor_library) | Arduino/C++ library for the MG811 CO₂ sensor |
 
-## 🧠 Areas of Expertise
+## Engineering Notes
 
--   Production Python backend systems
--   Machine Learning & Computer Vision
--   ML model optimization and deployment
--   Distributed and asynchronous processing
--   Microservice architecture
--   Cloud-native applications
--   Embedded / Edge AI
--   Performance-critical systems
+I write about real engineering problems, including debugging hardware interfaces, Linux networking, reverse engineering, and software-hardware integration.
 
-## 📌 Selected Projects
+**[Read my technical blog →](https://iamavk.info/blog/)**
 
-### MG811 Sensor Library
+## Contact
 
-Arduino/C++ library for the MG811 CO₂ sensor.
-
-More Python / ML projects coming soon.
-
-## 🌱 ML & Open Source
-
--   Kaggle: **andynewman**
--   DeepLearning.AI --- Deep Learning Specialization
--   Experience with computer vision, neural networks, embedded
-    inference, pose estimation and 3D reconstruction
--   Contributions to embedded and FPGA projects
-
-## 📫 Contact
-
-**LinkedIn:** linkedin.com/in/andrei-kazialetski-a2488240/
-
-**CV:** Available in this repository
+- **LinkedIn:** https://www.linkedin.com/in/andrei-kazialetski-a2488240/
+- **Website:** https://iamavk.info/
+- **GitHub:** https://github.com/avkghost
