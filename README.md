@@ -1,41 +1,84 @@
-# Hi, I'm Andrei Kazialetski 👋
 
-**Senior Software Engineer | Python · Solution Architecture · Computer Vision · Embedded Systems**
+# Hi, I'm Andrei Kazialetski
 
-I design and build production software, from Python backend services and cloud infrastructure to computer vision applications and low-level systems programming.
+**Senior Software Engineer | Solution Architect | Python Backend | Cloud Infrastructure**
 
-My primary professional focus is **Python, FastAPI, AWS, Kubernetes, and solution architecture**. Outside commercial projects, I explore Linux networking, SCSI interfaces, device drivers, microcontrollers, and retrocomputing.
+I'm a software engineer and solution architect based in Poland, focused on designing and building reliable backend systems, cloud infrastructure, and distributed applications.
 
-Based in Poland · Open to remote EU opportunities · B2B
+My primary expertise is in **Python, FastAPI, AWS, Kubernetes, and Terraform**. I work across architecture and hands-on development, from system design and REST APIs to third-party integrations, deployment, and infrastructure optimization.
 
-**[Website](https://iamavk.info/)** · **[Technical Blog](https://iamavk.info/blog/)** · **[LinkedIn](https://www.linkedin.com/in/andrei-kazialetski-a2488240/)**
+My background also includes computer vision, machine learning, embedded C/C++, Linux, and iOS development.
+
+Outside commercial projects, I build open-source tools and explore Linux networking, device drivers, microcontrollers, SCSI interfaces, and legacy hardware.
+
+**Open to remote Senior Software Engineer, Senior Python Engineer, and Solution Architect opportunities across Europe, including B2B contracts.**
+
+[Personal Website](https://iamavk.info/) | [Technical Blog](https://iamavk.info/blog/) | [LinkedIn](https://www.linkedin.com/in/andrei-kazialetski-a2488240/)
 
 ## Technical Expertise
 
-- **Backend & Architecture:** Python, FastAPI, PostgreSQL, Redis, Celery, REST APIs
-- **Cloud & Infrastructure:** AWS, Kubernetes, Docker, Terraform
-- **Computer Vision & ML:** OpenCV, TensorFlow Lite Micro, image processing, 3D reconstruction
-- **Systems & Embedded:** C/C++, Linux, device drivers, ESP32, SCSI
-- **Mobile:** Swift, SwiftUI, UIKit
+| Area | Technologies |
+|------|-------------|
+| Backend Development | Python, FastAPI, REST APIs, PostgreSQL, Redis, Celery |
+| Architecture | Distributed Systems, Microservices, API Design, System Integration |
+| Cloud & Infrastructure | AWS, Kubernetes, Docker, Terraform |
+| Computer Vision & ML | OpenCV, CNNs, TensorFlow Lite Micro, 3D Reconstruction |
+| Systems & Embedded | C/C++, Linux, ESP32, SCSI, Microcontrollers |
+| Mobile Development | Swift, SwiftUI, UIKit |
 
 ## Selected Engineering Projects
 
-| Project | Description |
-|---|---|
-| [FDTester](https://github.com/avkghost/FDTester) | Floppy disk controller and diagnostic tooling built around ATmega2560 |
-| [Iomega Tools](https://github.com/avkghost/iomega_tools) | Tools for working with legacy Iomega SCSI storage |
-| [BlueSCSI + DaynaPORT](https://github.com/avkghost/BlueSCSI-v2/tree/avkghost/birdge-with-daynaport) | Experimental SCSI bridging and host connectivity |
-| [DaynaPORT Windows Driver](https://github.com/avkghost/daynaport-scsilink-windows-driver) | Windows-side driver development for DaynaPORT SCSI networking |
-| [MG811 Sensor Library](https://github.com/avkghost/MG811_sensor_library) | Arduino/C++ library for the MG811 CO₂ sensor |
+### [FDTester](https://github.com/avkghost/FDTester)
 
-## Engineering Notes
+Floppy disk controller and diagnostic tooling based on the ATmega2560 microcontroller.
 
-I write about real engineering problems, including debugging hardware interfaces, Linux networking, reverse engineering, and software-hardware integration.
+A hardware/software engineering project involving low-level device communication, floppy disk interfaces, and diagnostic workflows.
 
-**[Read my technical blog →](https://iamavk.info/blog/)**
+### [Iomega Tools](https://github.com/avkghost/iomega_tools)
+
+Utilities for working with legacy Iomega storage devices, including SCSI-based Jaz drives.
+
+Focus areas include device communication, storage protocols, and compatibility with legacy hardware.
+
+### [BlueSCSI + DaynaPORT](https://github.com/avkghost/BlueSCSI-v2/tree/avkghost/birdge-with-daynaport)
+
+Experimental integration of BlueSCSI with DaynaPORT networking functionality.
+
+Related work:
+
+- [DaynaPORT Linux Driver](https://github.com/avkghost/daynaport-scsilink-linux-driver/tree/avkghost/birdge-with-daynaport)
+- [DaynaPORT Windows Driver](https://github.com/avkghost/daynaport-scsilink-windows-driver)
+
+### [MG811 Sensor Library](https://github.com/avkghost/MG811_sensor_library)
+
+Arduino/C++ library for interfacing with the MG811 CO2 sensor.
+
+An embedded software project involving sensor integration and microcontroller programming.
+
+## Technical Writing
+
+I document practical engineering experiments, implementation details, debugging processes, and lessons learned.
+
+Topics include:
+
+- Python development and AI-assisted engineering workflows
+- Linux networking and system interfaces
+- SCSI storage devices and legacy hardware
+- Embedded systems and microcontrollers
+- Hardware/software integration and troubleshooting
+
+Read my articles at **[iamavk.info/blog](https://iamavk.info/blog/)**.
+
+## Independent Software Development
+
+Through **AVKSoft**, I also develop independent applications and software tools.
+
+My personal website serves as the home for these applications, technical documentation, and user support.
+
+[Explore AVKSoft and my projects](https://iamavk.info/)
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/andrei-kazialetski-a2488240/
 - **Website:** https://iamavk.info/
+- **LinkedIn:** https://www.linkedin.com/in/andrei-kazialetski-a2488240/
 - **GitHub:** https://github.com/avkghost
